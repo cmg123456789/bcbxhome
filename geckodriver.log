@@ -1,0 +1,24 @@
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+geckodriver: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver [FLAGS] [OPTIONS]
+
+For more information try --help
+
+1636832415977	geckodriver	INFO	Listening on 127.0.0.1:62603
+1636832419009	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62604" "-no-remote" "-profile" "C:\\Users\\cmg\\AppData\\Local\\Temp\\rust_mozprofilesmVKs6"
+1636832419704	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\cmg\\AppData\\Local\\Temp\\rust_mozprofilesmVKs6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:62604/devtools/browser/f7e8ca69-261a-46e9-8dd2-69d456498bba
+1636832421999	Marionette	INFO	Listening on port 62609
+1636832422239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.bcbxhome.com/bcbxxy/static/js/common.js?NU5, line 1668: TypeError: o is null
+1636832428607	Marionette	INFO	Stopped listening on port 62609
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
